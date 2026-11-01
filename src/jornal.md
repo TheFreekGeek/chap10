@@ -10,3 +10,5 @@ Made the calculator function in the utility class. Added functionality to main t
 Phase 4
 Added needed items. These steps seemed to come from nowhere. Still not sure that the "energy" was done correctly. It took some time to figure out placement and formatting of commands but I think I got it. The ability to extract numerical values from strings would have endless uses. From extracting data from logs to preventing validation errors on user input.
 
+Phase 5
+Further testing for me didn't reveal anything unexpected. As I do the other steps I like to mess with the code and see where issues exist already.
