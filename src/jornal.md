@@ -6,3 +6,7 @@ Added final static variable, "UCC_VALUE", with type double, to the artifact clas
 
 Phase 3
 Made the calculator function in the utility class. Added functionality to main to use the calculator function. It took some time for me to figure out correct placement of everything to do this but I got there eventually. The calculator method exists in its own class because it doesn't really belong to another class. It exists as a static method so it does not need to be instantiated.
+
+Phase 4
+Added needed items. These steps seemed to come from nowhere. Still not sure that the "energy" was done correctly. It took some time to figure out placement and formatting of commands but I think I got it. The ability to extract numerical values from strings would have endless uses. From extracting data from logs to preventing validation errors on user input.
+
