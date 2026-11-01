@@ -3,8 +3,10 @@ public class artifact {
     Integer id;
     static int artCount;
     static final double UCC_VALUE = 3.14159;
+    double artEnergy;
 
-    public artifact(String name) {
+    public artifact() {
         artCount ++;
     }
+
 }

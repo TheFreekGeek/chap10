@@ -4,3 +4,5 @@ Created artifact class. Added String variable for name. Added Integer variable f
 Phase 2
 Added final static variable, "UCC_VALUE", with type double, to the artifact class. Assigned the value of 3.14159 to the "UCC_VALUE". Added code to main to display UCC_VALUE. By setting the UCC_Value to static final this locks this value and cannot be modified later in the code and sets it to the artifact class, not any single instance.
 
+Phase 3
+Made the calculator function in the utility class. Added functionality to main to use the calculator function. It took some time for me to figure out correct placement of everything to do this but I got there eventually. The calculator method exists in its own class because it doesn't really belong to another class. It exists as a static method so it does not need to be instantiated.
